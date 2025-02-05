@@ -5,5 +5,5 @@ height = $1
 width = $2
 length = $3
 
-
-echo$(height * width * length)
+#calculation formula
+echo $((height * width * length))
