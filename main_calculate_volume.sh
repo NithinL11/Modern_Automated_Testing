@@ -2,7 +2,7 @@
 
 #calculate using calculate_volume file
 
-RESULT=$(./calculate_volume.sh 2 3 4)
+RESULT=$(./calculate_volume.sh 4 3 4)
 
 #print result as
 
